@@ -13,3 +13,6 @@ get '/key8888' do
   'Hello key8888'
 end
 
+get '/tako20' do
+  'Hello tako20'
+end
