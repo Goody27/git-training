@@ -8,3 +8,8 @@ end
 get '/shinshin15' do
   'Hello shinshin15'
 end
+
+get '/key8888' do
+  'Hello key8888'
+end
+
