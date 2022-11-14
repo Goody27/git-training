@@ -5,6 +5,6 @@ get '/' do
   'Hello world!'
 end
 
-get '/challecara' do
-  'Hello challecara!'
+get '/shinshin15' do
+  'Hello shinshin15'
 end
