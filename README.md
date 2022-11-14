@@ -147,3 +147,5 @@ git-training-app-1  | == Sinatra (v2.2.0) has taken the stage on 4567 for develo
 git-training-app-1  | [2022-08-13 05:32:23] INFO  WEBrick::HTTPServer#start: pid=1 port=4567
 ```
 </details>
+
+Awesome
