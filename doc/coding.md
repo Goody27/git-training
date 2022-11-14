@@ -102,5 +102,5 @@ pushコマンドは、ローカルリポジトリのissue-1ブランチに現在
 ```
 $ git add app.rb
 $ git commit -m "/challecaraエンドポイントを追加した"
-$ git push origin/issue-1
+$ git push origin issue-1
 ```
